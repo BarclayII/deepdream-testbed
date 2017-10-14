@@ -10,6 +10,7 @@ args:
         - type: file
           io: output
           category: image
+          name: Colorized image
 input: null
 output: stdout
 executes:
