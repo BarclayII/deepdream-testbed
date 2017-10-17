@@ -1,5 +1,4 @@
-openbrain-base-image: all
-entry: python
+entry: python2.7
 args:
         - test.py
         - type: file
